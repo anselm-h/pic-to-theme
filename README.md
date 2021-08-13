@@ -1,2 +1,2 @@
 # pic-to-theme
-Convert an Immage to a terminal theme!
+Create a terminal theme from an immage!
